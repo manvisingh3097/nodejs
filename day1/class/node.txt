@@ -1,0 +1,24 @@
+
+js vs nodejs
+jsvrunning in = browser
+nodejs running in = server side
+purpose of js = client side scripting
+purpose of  nodejs = server side scripting
+ex . js used to create interactive elemnets , games and animations
+nodejs for webservers, different kind of real time chatting appps or data processing
+
+node was written in c++ we can directly run in computer by installing , takes the js runs through v8 compiler and then it compiles to machine code and then we can run
+js going in node js compiles into machine code and runs
+
+nodejs used in creating different type of dynamic website
+microservice architecture : breaking bigger appplication into smaller application as node.js is lightweight
+data streaming : node js streams the data effectively  from one place to another 
+build tools : gulp, grunt etc are build using node js
+APIs  : application programming interface , nodejs is one of the popular choice for creating restful apis because of  its speed and it supports json . 
+express framework is built on top of node js
+IOTs : Internet of things. where devices connect with internet and send/receive data from the cloud as its again very light weight
+mobile apps development : react native, ionic etc are developed using node js
+
+advantage :
+Faster =  nodejs is a event driven architecture, makes it running faster like social medias like coments etc.
+open source = its free
